@@ -5,6 +5,8 @@
 *
 !*.C
 !*.h
+!*.sh
+!*.csh
 !Makefile.am
 !README.md
 !UpLoadCVS.sh
